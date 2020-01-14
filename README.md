@@ -1,6 +1,8 @@
 # CV-LaTeX
 
-**Executive CV PDF version (116 kb) typed in LaTeX with hyperlinks** \
+[![lastrelease](https://img.shields.io/badge/latest%20release-September%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/files/cv.pdf) ![size](https://img.shields.io/badge/size-116kB-blue.svg) ![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)
+
+**Executive CV PDF version (116 kB) typed in LaTeX with hyperlinks** \
 Last updated: 5 September 2019 \
 View at http://users.ox.ac.uk/~shil5311/files/cv.pdf
 
