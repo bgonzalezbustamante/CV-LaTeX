@@ -1,6 +1,6 @@
 # CV-LaTeX
 
-[![lastrelease](https://img.shields.io/badge/latest%20release-September%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/files/cv.pdf) [![size](https://img.shields.io/badge/size-116kB-blue.svg)](http://users.ox.ac.uk/~shil5311/files/cv.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/tree/CV-updates) [![commits](https://img.shields.io/badge/commits-8-yellow.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/tree/CV-updates) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![lastrelease](https://img.shields.io/badge/latest%20release-September%202019-orange.svg)](http://users.ox.ac.uk/~shil5311/files/cv.pdf) [![size](https://img.shields.io/badge/size-116kB-blue.svg)](http://users.ox.ac.uk/~shil5311/files/cv.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/tree/Update) [![commits](https://img.shields.io/badge/commits-8-yellow.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/tree/Update) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 **Executive CV PDF version (116 kB) typed in LaTeX with hyperlinks** \
 Last updated: 5 September 2019 \
