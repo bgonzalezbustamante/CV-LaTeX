@@ -19,9 +19,9 @@
 - [X] Update teaching experience at OXF
 - [X] Move academic service to full CV
 - [X] Update service as country expert x 2
-- [ ] Update service as peer-reviewer x 2
+- [X] Update service as peer-reviewer x 2
 - [ ] Update training certifications x 3
 - [X] Update memberships x 2
 - [ ] Update references x 1
 - [ ] Indicate information about each version (pages and kB)
-- [ ] Add link to the latest version on GitHub
+- [X] Add link to the latest version on GitHub
