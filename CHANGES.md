@@ -4,7 +4,7 @@
 
 **Changes February 2020:** 
 - [ ] Update relevant employment x 1
-- [ ] Update peer-reviewed articles in SSCI x 2
+- [X] Update peer-reviewed articles in SSCI x 2
 - [ ] Update under review articles in SSCI x 2
 - [ ] Update peer-reviewed edited volumes x 1
 - [ ] Update peer-reviewed articles in Scopus/ESCI x 1
