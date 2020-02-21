@@ -22,6 +22,6 @@
 - [X] Update service as peer-reviewer x 2
 - [ ] Update training certifications x 3
 - [X] Update memberships x 2
-- [ ] Update references x 1
+- [X] Update references x 1
 - [ ] Indicate information about each version (pages and kB)
 - [X] Add link to the latest version on GitHub
