@@ -18,10 +18,10 @@
 - [X] Awards after conference presentations
 - [X] Teaching experience after awards
 - [X] Update teaching experience at OXF
-- [ ] Update service as country expert x 2
+- [X] Update service as country expert x 2
 - [ ] Update service as peer-reviewer x 2
 - [ ] Update training certifications x 3
-- [ ] Update memberships x 2
+- [X] Update memberships x 2
 - [ ] Update references x 1
 - [ ] Indicate information about each version (pages and kB)
 - [ ] Add link to the latest version on GitHub
