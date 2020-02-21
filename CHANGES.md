@@ -5,19 +5,19 @@
 **Forthcoming Changes**
 - [ ] Update awards x 2
 - [ ] Add research projects section
-- [ ] Exchange academic service for research projects in executive CV
+- [ ] Update working papers and reviews x 1
 
 **Changes February 2020:** 
 - [X] Update peer-reviewed articles in SSCI x 2
 - [X] Update under review articles in SSCI x 2
 - [X] Update peer-reviewed edited volumes x 1
 - [X] Update peer-reviewed articles in Scopus/ESCI x 1
-- [ ] Update working papers and reviews x 1
 - [X] Conference presentations after publications
 - [ ] Update conference presentations x 3
-- [X] Awards after conference presentations
-- [X] Teaching experience after awards
+- [X] Teaching experience after conference presentations
+- [X] Awards after teaching experience
 - [X] Update teaching experience at OXF
+- [X] Move academic service to full CV
 - [X] Update service as country expert x 2
 - [ ] Update service as peer-reviewer x 2
 - [ ] Update training certifications x 3
