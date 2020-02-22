@@ -4,7 +4,7 @@
 
 **Executive CV PDF version (5 pages, 126 kB) typed in LaTeX with hyperlinks** \
 Last updated: 22 February 2020 \
-View at https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/CV-Gonzalez-Bustamante.pdf 
+View at https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/CV-Gonzalez-Bustamante.pdf \
 as well as http://users.ox.ac.uk/~shil5311/files/cv.pdf
 
 **Full CV PDF version (12 pages, 160 kB) typed in LaTeX with hyperlinks**\
