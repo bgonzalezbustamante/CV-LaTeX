@@ -8,4 +8,4 @@ View at https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/CV-Gonzalez-
 as well as http://users.ox.ac.uk/~shil5311/files/cv.pdf
 
 **Full CV PDF version (12 pages, 160 kB) typed in LaTeX with hyperlinks**\
-The full version includes the following additional information: a brief biography, other employment and publications, full list of conference and seminar presentations, whole teaching experience, academic and conference service, skills certification and training, and references available to contact. Please request it by emailBbastian.gonzalezbustamante@politics.ox.ac.uk 
+The full version includes the following additional information: a brief biography, other employment and publications, full list of conference and seminar presentations, whole teaching experience, academic and conference service, skills certification and training, and references available to contact. Please request it by email bastian.gonzalezbustamante@politics.ox.ac.uk 
