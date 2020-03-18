@@ -6,7 +6,7 @@
 - [ ] Update awards x 2
 - [ ] Add research projects section
 - [ ] Update working papers and reviews x 1
-- [ ] Reorder latest conference presentations in full CV
+- [ ] Reorder latest conference presentations in full CV and -1
 
 **Changes February 2020:** 
 - [X] Update peer-reviewed articles in SSCI x 2
