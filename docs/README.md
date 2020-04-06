@@ -3,7 +3,7 @@
 [![lastrelease](https://img.shields.io/badge/latest%20release-February%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-126kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![commits](https://img.shields.io/badge/PNDX-6-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://creativecommons.org/licenses/by/4.0/) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
 ### Executive CV PDF version 
-- Five pages  typed in LaTeX with hyperlinks
+- Five pages  typed in LaTeX with hyperlinks (126 kB)
 - Last updated: 22 February 2020
 - View on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
 - View on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/)
