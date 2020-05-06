@@ -6,7 +6,7 @@
 - Five pages  typed in LaTeX with hyperlinks (126 kB)
 - Last updated: 22 February 2020
 - View on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
-- View on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/)
+- View on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) <small>(click on CV in the header)</small>
 
 ### Full CV PDF version 
 - Twelve pages typed in LaTeX with hyperlinks (160 kB)
