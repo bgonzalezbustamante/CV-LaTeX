@@ -4,7 +4,7 @@
 
 ### Executive CV PDF version 
 - Five pages  typed in LaTeX with hyperlinks (126 kB)
-- Last updated: 22 February 2020
+- Last updated: February 22, 2020
 - See on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
 - See on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) <small>(click on CV in the header)</small>
 
