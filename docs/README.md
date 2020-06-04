@@ -5,10 +5,10 @@
 ### Executive CV PDF version 
 - Five pages  typed in LaTeX with hyperlinks (126 kB)
 - Last updated: 22 February 2020
-- View on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
-- View on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) <small>(click on CV in the header)</small>
+- See on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
+- See on my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) <small>(click on CV in the header)</small>
 
 ### Full CV PDF version 
-- Twelve pages typed in LaTeX with hyperlinks (160 kB)
-- It includes the following additional information: a brief biography, other employment and publications, full list of conference and seminar presentations, whole teaching experience, academic and conference service, skills certification and training, and references available to contact
+- Twelve pages typed in LaTeX with hyperlinks (160 kB).
+- It includes the following additional information: a brief biography, other employment and publications, full list of conference and seminar presentations, whole teaching experience, academic and conference service, skills certification and training, and references available to contact.
 - Please request it by email [bastian.gonzalezbustamante@politics.ox.ac.uk](mailto:bastian.gonzalezbustamante@politics.ox.ac.uk)
