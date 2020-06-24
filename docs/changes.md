@@ -1,8 +1,9 @@
 # CV-LaTeX
 
-[![update](https://img.shields.io/badge/latest%20update-February%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-126kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-June%202020-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![changes](https://img.shields.io/badge/PNDX-15-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://creativecommons.org/licenses/by/4.0/) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
+[![update](https://img.shields.io/badge/latest%20update-February%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-126kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-July%202020-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![changes](https://img.shields.io/badge/PNDX-16-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://creativecommons.org/licenses/by/4.0/) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Typora](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
 
 **Forthcoming Changes:**
+
 - [ ] Media Research Programme
 - [ ] Update profile and interests
 - [ ] Update under review in Social Sciences Citation Index x 1
@@ -10,7 +11,7 @@
 - [ ] Update selected conference presentations x 2
 - [ ] Update awards x 2
 - [ ] Update service as expert x 2
-- [ ] Update service as reviewer x 1
+- [ ] Update service as reviewer x 2
 - [ ] Add research projects section
 - [ ] Update working papers and reviews x 1
 - [ ] Reorder latest conference presentations in full CV
