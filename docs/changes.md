@@ -8,6 +8,7 @@
 - [ ] Add research projects section
 - [ ] Update working papers and reviews x 1
 - [ ] Update service as a reviewer x 2
+- [ ] Update of references available to contact in full CV
 
 **Changes July 2020:**
 
