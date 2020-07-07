@@ -13,6 +13,7 @@
 
 - [x] Media Research Programme
 - [x] Update under review in Social Sciences Citation Index x 1
+- [x] Journal Citation Report Impact Factor
 - [x] Update peer-reviewed articles in Scopus/ESCI x 1
 - [x] Update selected conference presentations x 3
 - [x] Update awards x 1
