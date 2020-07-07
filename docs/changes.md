@@ -2,7 +2,7 @@
 
 [![update](https://img.shields.io/badge/latest%20update-February%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-126kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-July%202020-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![changes](https://img.shields.io/badge/PNDX-5-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://creativecommons.org/licenses/by/4.0/) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Typora](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
 
-**Forthcoming Changes:**
+**Forthcoming changes:**
 
 - [ ] Update profile and interests
 - [ ] Add research projects section
