@@ -4,13 +4,10 @@
 
 **Forthcoming Changes:**
 
-[ ] Update profile and interests
-
-[ ] Add research projects section
-
-[ ] Update working papers and reviews x 1
-
-[ ] Update service as a reviewer x 2
+- [ ] Update profile and interests
+- [ ] Add research projects section
+- [ ] Update working papers and reviews x 1
+- [ ] Update service as a reviewer x 2
 
 **Changes July 2020:**
 
