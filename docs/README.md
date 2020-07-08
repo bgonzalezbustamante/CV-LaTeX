@@ -1,10 +1,10 @@
 ## CV-LaTeX
 
-[![update](https://img.shields.io/badge/latest%20update-July%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-137kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![changes](https://img.shields.io/badge/PNDX-6-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/LICENSE.txt) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Typora](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
+[![update](https://img.shields.io/badge/latest%20update-July%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![size](https://img.shields.io/badge/size-136kB-blue.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![nextrelease](https://img.shields.io/badge/next%20release-TBC-red.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![changes](https://img.shields.io/badge/PNDX-5-yellow.svg)](https://bgonzalezbustamante.github.io/CV-LaTeX/changes) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/LICENSE.txt) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Typora](https://img.shields.io/badge/Made%20with-Typora-1f425f.svg)](https://typora.io/)
 
 ### Executive CV PDF version 
-- Five pages  typed in LaTeX with hyperlinks (137 kB)
-- Last updated: July 7, 2020
+- Five pages  typed in LaTeX with hyperlinks (136 kB)
+- Last updated: July 8, 2020
 - Look at my [GitHub repository](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf)
 - Look at my [website at the University of Oxford](http://users.ox.ac.uk/~shil5311/) <small>(click on CV in the header)</small>
 
