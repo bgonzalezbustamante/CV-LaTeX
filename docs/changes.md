@@ -4,7 +4,7 @@
 
 **Forthcoming changes:**
 
-- [ ] Update profile and interests
+- [ ] Update profile
 - [ ] Add research projects section
 - [ ] Update working papers and reviews x 1
 - [ ] Update service as a expert x 1
@@ -12,6 +12,7 @@
 
 **Changes July 2020:**
 
+- [X] Update interests
 - [x] Update peer-reviewed articles in SSCI x 1
 - [x] Media Research Programme
 - [x] Update under review in Social Sciences Citation Index x 1
