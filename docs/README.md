@@ -2,6 +2,8 @@
 
 [![update](https://img.shields.io/badge/latest%20update-July%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![issues](https://img.shields.io/badge/issues-0-yellow.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/issues) [![CC](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/LICENSE.txt) [![Latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/)
 
+> This version will be deprecated in August 2020. It will be replaced by a new version typed in [XeLaTeX](https://github.com/bgonzalezbustamante/CV-XeLaTeX).
+
 ### Executive CV PDF version 
 - Five pages  typed in LaTeX with hyperlinks (137 kB)
 - Last updated: July 31, 2020
