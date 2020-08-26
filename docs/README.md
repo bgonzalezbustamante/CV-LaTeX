@@ -1,4 +1,4 @@
-## CV-LaTeX
+# CV-LaTeX
 
 [![Update](https://img.shields.io/badge/latest%20update-July%202020-orange.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/TeX/CV-Gonzalez-Bustamante.pdf) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/CV-LaTeX.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/CV-LaTeX.svg)](https://github.com/bgonzalezbustamante/CV-LaTeX/issues?q=is%3Aissue+is%3Aclosed) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](https://github.com/bgonzalezbustamante/CV-LaTeX/blob/master/LICENSE.txt) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) 
 
